@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "52G2V5SW53.com.pricejohn.turbometa",
+        "paths": [
+          "/turbometa",
+          "/turbometa/*"
+        ]
+      }
+    ]
+  }
+}
